@@ -5,3 +5,4 @@ google-generativeai
 Pillow
 pytesseract
 pdf2image
+scikit-learn
