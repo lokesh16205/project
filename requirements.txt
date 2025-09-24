@@ -1,0 +1,7 @@
+streamlit
+joblib
+numpy
+google-generativeai
+Pillow
+pytesseract
+pdf2image
